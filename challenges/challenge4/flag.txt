@@ -1,0 +1,10 @@
+Here is our flag for the new CTF challenge!
+Note that the challenge is work in progress.
+Please use branches for changes!
+
+flag_
+aaaaaaaaaa
+1111111111
+c3516d5e8a
+1d2e099ca5f
+_

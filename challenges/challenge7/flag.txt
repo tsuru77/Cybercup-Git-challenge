@@ -1,0 +1,11 @@
+We are working on a flag for a new CTF challenge again!
+Some changes have been made on a feature branch.
+After a discussion with the CTF team,
+it was decided that only Change 3 should be applied. 
+
+flag_
+9f6d2bab8c
+1d1bd1d791
+50c26e7386
+dc712a9caf
+_

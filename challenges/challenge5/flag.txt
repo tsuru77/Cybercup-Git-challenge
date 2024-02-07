@@ -1,0 +1,31 @@
+#include<stdio.h>
+
+int main() {
+    //Someone has implemented a bug! Now you want find out that persons e-mail address and complain.
+	BUG
+	printf("Qui eu sint enim voluptate ad deserunt do laborum reprehenderit ea culpa ullamco enim aute eiusmod.");
+	printf("Ea commodo deserunt sunt eiusmod culpa commodo tempor irure irure est consectetur reprehenderit do.");
+	printf("Est velit aute Lorem ex mollit nulla in irure.");
+	printf("Fugiat et cillum ad ad magna fugiat id.");
+	printf("Adipisicing ipsum eu deserunt sunt incididunt sint et nostrud exercitation ullamco duis.");
+	printf("Lorem sint occaecat quis minim sunt ea non officia incididunt.");
+	printf("Labore enim ex nostrud sit deserunt enim esse sunt aliquip dolor labore enim non occaecat.");
+	printf("Ullamco aute excepteur irure ipsum eiusmod.");
+	printf("Dolore cupidatat qui dolor.");
+	printf("Velit consequat sunt dolor quis in officia nulla aute aute nostrud aliqua.");
+	printf("Eu labore et esse pariatur ut sit eiusmod duis.");
+	printf("In enim amet veniam ad aliquip nostrud sit fugiat laboris aliqua id duis tempor sunt.");
+	printf("Minim nostrud proident ullamco mollit laboris exercitation et anim dolore irure.");
+	printf("Deserunt qui minim veniam eiusmod dolore nostrud pariatur est.");
+	printf("Sunt tempor do voluptate reprehenderit labore non culpa cillum ipsum non occaecat.");
+	printf("Veniam dolor anim sint reprehenderit ex ipsum occaecat aliqua ipsum ipsum occaecat pariatur dolore.");
+	printf("Ex aute elit cillum laboris ipsum do commodo excepteur minim ex consequat anim esse enim.");
+	printf("Consectetur sunt cillum veniam qui Lorem et sit occaecat do qui.");
+	printf("Culpa qui fugiat dolor proident adipisicing pariatur dolore laborum sit.");
+	printf("Amet aliquip eiusmod consequat minim culpa proident.");
+	printf("Ex sunt exercitation nisi ipsum enim culpa deserunt ad ex est mollit amet dolore est.");
+	printf("Ipsum est ut duis laborum dolor Lorem tempor ipsum cillum fugiat anim reprehenderit aute ullamco laborum.");
+	printf("Cillum nulla quis exercitation.");
+	printf("Mollit eiusmod irure proident ad ipsum mollit Lorem nulla do minim.");
+	return 0;
+}
