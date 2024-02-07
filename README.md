@@ -15,12 +15,12 @@ https://github.com/git-guides/install-git
 
 ## Déploiement du challenge
 
-- Commencez par cloner ce répo github avec la commande suivante :
+- Commencez par cloner ce dépot github sur votre pc avec la commande suivante :
     ```bash
     https://github.com/tsuru77/Cybercup-Git-challenge.git
     ```
 
-- Exécuter cette commande dans votre terminal
+- Créer le conteneur qui contient le challenge en executant cette commande dans votre terminal
     
     ```bash
     docker build  -t cybercup-git-challenge .
@@ -34,14 +34,10 @@ https://github.com/git-guides/install-git
     -v ~/.cybercup-git-challenge-config:/config \
     --rm cybercup-git-challenge
     ```
-    
 
- 
-
->>> Identifiants SSH pour faire copier les répertoires git :
+Identifiants SSH pour faire copier les répertoires git :
 
 user : cybercup
-
 passwd : cybercup
 
 - Structure des répertoires git
@@ -68,8 +64,8 @@ Pour commencer les challenges vous devez récupérer les répertoires en `ssh` q
 
 > 💡 Comment cloner les répertoire ?
 
-git clone <protocole>://<user>@<ip_machine_distante>:<port><chemin_vers_le_challenge>
-> 
+> git clone <protocole>://<user>@<ip_machine_distante>:<port><chemin_vers_le_challenge>
+
 
 Vous devez cloner tout répertoires challenges présent sur la machine distante, pour résoudre chacun des défis.
 
