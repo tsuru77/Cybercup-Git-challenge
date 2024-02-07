@@ -108,7 +108,18 @@ Vous devez trouver le flag qui a été supprimé du fichier "flag.txt".
 Le flag est en cours de développement. Vous devez utiliser "git cherry-pick"
 
 # Solutions
-
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+\/
 - Challenge 1
 cat flag.txt
 
