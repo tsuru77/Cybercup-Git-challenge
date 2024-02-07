@@ -5,7 +5,7 @@
 - Docker
 - Git
 
-Installez Docker sur votre pc :
+Installez `Docker` sur votre pc :
 
 [Docker Desktop: The #1 Containerization Tool for Developers | Docker](https://www.docker.com/products/docker-desktop/)
 
@@ -14,6 +14,11 @@ Installez `Git` sur votre pc :
 https://github.com/git-guides/install-git
 
 ## Déploiement du challenge
+
+- Commencez par cloner ce répo github avec la commande suivante :
+    ```bash
+    https://github.com/tsuru77/Cybercup-Git-challenge.git
+    ```
 
 - Exécuter cette commande dans votre terminal
     
